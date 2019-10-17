@@ -1,0 +1,12 @@
+JSON + HTTP requests
+
+Javascript  ---> 
+*Ajax      - old but good - 5 
+*Fetch API -new, fresh - 8      (Acasa de uitat de invatat)
+
+script (function) ---> HTTP (request) ---> server 
+                  <---       response <---
+                  * methods (GET,POST,...) FRONTEND
+                  * format (JSON,XML,text,binary...)
+                  * headers (hidden/meta info)
+                  * status codes (404,)
